@@ -1,18 +1,12 @@
 ### Olá, eu sou o Maurício Leal 👋
 
-- 🔭 Atualmente trabalhando em projetos **Java e Spring Boot**
+- 💻 Back-end Engineer | Atualmente trabalhando em projetos **Java e Spring Boot**
+- 📩 Contate-me no e-mail <a href="mailto:mauricio12leal@gmail.com">mauricio12leal@gmail.com</a>
+- 🎓 CS Undergraduate 5/8
 - 🌱 Estudando **Arquitetura de Microsserviços**
-- 📫 Contato: mauricio12leal@gmail.com
+<!--- ✨Meu <a href="https://d3vnicolas.space">portfólio</a>-->
 
----
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauriLeal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriLeal&layout=compact&theme=dracula"/>
-</div>
-
----
 
 ### Tech Stack
 <div align="center">
